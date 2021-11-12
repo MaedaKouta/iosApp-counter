@@ -1,4 +1,4 @@
-# 　iOSApp「Easy Counter」
+# iOSApp「Easy Counter」
 
  <img width="130" alt="ロゴ" src="https://user-images.githubusercontent.com/82198916/141433937-92d03024-e701-4d85-878b-fe88ce5f2b76.png">
 画面の左右でカウントの減少と増加を分けることができます。<br>
